@@ -47,5 +47,4 @@ calculator/
 - Use the calculator for basic operations.
 - The right panel shows your calculation history (persisted in MySQL).
 
-## License
-MIT
+
